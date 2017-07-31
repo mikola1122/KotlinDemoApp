@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinDemoApp</string>
+    <string name="are_you_user">Are you user?</string>
+    <string name="yes">Yes</string>
+</resources>
